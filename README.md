@@ -10,8 +10,8 @@ A complete, structured exploratory data analysis of **7,560 Australian apparel s
 
 | File | Description |
 |---|---|
-| `AAL_Sales_EDA_Final_Colab.ipynb` | The full analysis — 60 cells (35 markdown + 25 code) with explanations, tables, and chart outputs |
-| `AusApparalSales4thQrt2020.csv` | The dataset (7,560 rows × 6 columns) required to re-run the notebook |
+| [AAL_Sales_EDA_Final_Colab.ipynb](AAL_Sales_EDA_Final_Colab.ipynb) | The full analysis — 60 cells (35 markdown + 25 code) with explanations, tables, and chart outputs |
+| [AusApparalSales4thQrt2020.csv](AusApparalSales4thQrt2020.csv) | The dataset (7,560 rows × 6 columns) required to re-run the notebook |
 
 ## Analysis workflow
 
